@@ -1,7 +1,7 @@
 #### Hello, I'm Igor Rashtikis 👋
 
 
-A passionate fullstack developer.
+I'm a fullstack developer.
 
 
 📫 How to reach me: loverbulochek@yandex.ru || Telegram @R3tr0_2712
